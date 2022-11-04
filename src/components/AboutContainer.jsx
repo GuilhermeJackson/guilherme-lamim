@@ -8,7 +8,8 @@ const AboutContainer = () => {
             ut vero internos. Sit sint sunt a voluptate maiores et illum laborum. 
             Vel fuga enim ea aperiam nesciunt aut quod magnam. Cum nostrum commodi 
             non voluptate impedit qui dolores esse aut nemo consequuntur qui galisum 
-            doloribus quo quibusdam cumque</p>
+            doloribus quo quibusdam cumque
+        </p>
     </section>
 };
 
