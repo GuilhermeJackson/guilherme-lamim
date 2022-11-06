@@ -11,7 +11,6 @@ const InformationContainer = () => {
                         <p>(47)99105-6721</p>
                     </div>
                 </div>
-                
                 <div className="info-card">
                     <AiOutlineMail id="email-icon" />
                     <div>
@@ -19,14 +18,12 @@ const InformationContainer = () => {
                         <p>guilherme.lamim96@gmail.com</p>
                     </div>
                 </div>
-
                 <div className="info-card">
                     <AiFillEnvironment id="pin-icon" />
                     <div>
                         <h3>Localização</h3>
                         <p>Blumenau - SC</p>
                     </div>
-
                 </div>
             </section>
 };
