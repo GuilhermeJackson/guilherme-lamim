@@ -4,14 +4,11 @@ const ProjectsContainer = () => {
     return (
         <section className='projects-container'>
             <h2>Projetos</h2>
-            <p> Lorem ipsum dolor sit amet. Sed magni error et molestias veritatis
-                eum quia laboriosam est perspiciatis perferendis eos consequatur autem 
-                ut vero internos. Sit sint sunt a voluptate maiores et illum laborum. 
-                Vel fuga enim ea aperiam nesciunt aut quod magnam. Cum nostrum commodi 
-                non voluptate impedit qui dolores esse aut nemo consequuntur qui galisum 
-                doloribus quo quibusdam cumque
+            <p> Convido a ver mais dos meus projetos armazenados no Github. Minha proposta do 
+                Github é permanecer com meus códigos antigos desde o inicio da minha carreira 
+                até os projetos mais recentes para melhor acompanhar minha evolução.
             </p>
-            <a href="#" className="btn">
+            <a href="https://github.com/GuilhermeJackson/" className="btn">
                 Ver Projetos
             </a>
         </section>
