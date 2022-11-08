@@ -8,3 +8,4 @@ com funcionalidades adicionais da SASS. Tem como objetivo simplicar a contruçã
 compartilhamento da grande quantidade de dados manipulados.<br>
 Alguns recursos utilizados do SASS são mixins, variables, nesting.<br>
 
+![captura](https://user-images.githubusercontent.com/42879573/200450159-7f737638-6b8f-43da-8439-b45628e0aba8.jpeg)
