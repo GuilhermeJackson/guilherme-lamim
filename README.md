@@ -1,4 +1,4 @@
-# Curr-culo-Virtual
+# Currículo
 Esse projeto tem como objetivo informar meus dados de contato e minha competências profissionais.<br>
 
 Nesse projeto foi usado integração do React com pré-processador SASS(Syntactically Awesome StyleSheets), também foi utilizado a ferramenta Vite .<br>
