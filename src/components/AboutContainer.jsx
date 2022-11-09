@@ -12,8 +12,9 @@ const AboutContainer = () => {
             Karma, testes de integração com Cypress, eCharts, Azure DevOps, GIT.
         </p>
         <p>    
-            Iniciei minha formação em Sistemas de Informação em 2017 onde tive meu primeiro contato com tecnologia; 
-            em 2019 no curso de desenvolvimento Android e iOS através da Proway, como parte do programa de formação da AmbevTech.
+            Iniciei minha formação em Sistemas de Informação em 2017, pela Uniasselvi, onde tive meu primeiro contato com tecnologia.
+             Em 2019, iniciei o curso de formação de desenvolvimento Android e iOS, pela Proway, como parte do programa de formação da 
+             AmbevTech, totalizando 560 horas de curso concluídos em 2020.
         </p>
     </section>
 };
