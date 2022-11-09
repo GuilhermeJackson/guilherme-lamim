@@ -4,7 +4,7 @@ const { resolve } = require('path')
 
 const app = express()
 
-app.arguments('/',
+app.use('/',
     express.static(
         resolve(
             __dirname,
@@ -13,7 +13,8 @@ app.arguments('/',
     )
 )
 
-app.listen(process.envi.PORT || 3000, (err) => {
+app
+    .listen(process.env.PORT || 3000, (err) => {
     if(err) { return console.log(err) }
     console.log('Tudo funcionando')
 })
