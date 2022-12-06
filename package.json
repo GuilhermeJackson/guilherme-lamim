@@ -2,7 +2,7 @@
   "name": "react_sass",
   "private": true,
   "version": "0.0.0",
-  "homepage": "guilhermejackson.github.io/guilherme-lamim",
+  "homepage": "guilhermejackson.github.io/guilherme-lamim/main.jsx",
   "scripts": {
     "start": "node server.js",
     "test": "jest",
