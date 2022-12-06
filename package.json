@@ -2,7 +2,7 @@
   "name": "react_sass",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://github.com/GuilhermeJackson/Curriculo-Virtual",
+  "homepage": "http://guilhermejackson.github.io/Curriculo-Virtual",
   "scripts": {
     "start": "node server.js",
     "predeploy": "npm run build",
