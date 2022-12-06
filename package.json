@@ -2,7 +2,7 @@
   "name": "react_sass",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://guilhermejackson.github.io",
+  "homepage": "https://guilhermejackson.github.io/",
   "scripts": {
     "start": "node server.js",
     "predeploy": "npm run build",
