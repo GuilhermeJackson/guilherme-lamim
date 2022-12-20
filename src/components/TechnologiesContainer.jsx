@@ -1,6 +1,6 @@
 import { DiHtml5,DiCss3, DiReact, DiAngularSimple, DiAndroid } from 'react-icons/di'
 import { SiTypescript } from "react-icons/si";
-import '../styles/components/technologiescontainer.sass'
+import '../styles/components/technologiescontainer.scss'
 import React from 'react'
 
 const technologies = [

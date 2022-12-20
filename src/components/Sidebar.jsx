@@ -2,7 +2,7 @@ import React from 'react'
 import Avatar from "../img/perfilguilhermelamim.jpg"
 import SocialNetworks from './SocialNetworks'
 import InformationContainer from './InformationContainer'
-import "../styles/components/sidebar.sass"
+import "../styles/components/sidebar.scss"
 
 const Sidebar = () => {
     return (

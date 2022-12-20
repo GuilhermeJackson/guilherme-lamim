@@ -1,6 +1,6 @@
 import React from "react";
 import { AiFillPhone, AiOutlineMail, AiFillEnvironment } from "react-icons/ai"
-import '../styles/components/informationcontainer.sass'
+import '../styles/components/informationcontainer.scss'
 
 const InformationContainer = () => {
     return <section id="information">

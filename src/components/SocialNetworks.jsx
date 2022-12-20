@@ -1,5 +1,5 @@
 import {FaLinkedinIn, FaGithub, FaInstagram} from "react-icons/fa"
-import '../styles/components/socialnetworks.sass'
+import '../styles/components/socialnetworks.scss'
 
 const socialNetworks = [
     { name: "linkedin", url: "https://www.linkedin.com/in/guilhermelamim/", icon: <FaLinkedinIn/> },
