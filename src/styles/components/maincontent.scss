@@ -35,3 +35,9 @@
         align-self: start;
     }
 }
+
+@media only screen and (min-width: variables.$sm) and (max-width: variables.$md) {
+    #main-content {
+        padding: 2rem;
+    }
+}
